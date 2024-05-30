@@ -3583,11 +3583,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Tests\\University.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Tests\\University.Tests.csproj",
       "projectName": "University.Tests",
-      "projectPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Tests\\University.Tests.csproj",
+      "projectPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Tests\\University.Tests.csproj",
       "packagesPath": "C:\\Users\\СТО\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Tests\\obj\\",
+      "outputPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3609,14 +3609,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Data\\University.Data.csproj": {
-              "projectPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Data\\University.Data.csproj"
+            "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Data\\University.Data.csproj": {
+              "projectPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Data\\University.Data.csproj"
             },
-            "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Interfaces\\University.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Interfaces\\University.Interfaces.csproj"
+            "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Interfaces\\University.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Interfaces\\University.Interfaces.csproj"
             },
-            "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Services\\University.Services.csproj": {
-              "projectPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Services\\University.Services.csproj"
+            "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Services\\University.Services.csproj": {
+              "projectPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Services\\University.Services.csproj"
             }
           }
         }

@@ -239,7 +239,7 @@ public class EditStudentViewModel : ViewModelBase, IDataErrorInfo
 
     private bool IsValid()
     {
-        string[] properties = { "Name", "LastName", "PESEL", "BirthDay" };
+        string[] properties = { "Name", "LastName" /*,"PESEL", "BirthDay"*/ };
         foreach (string property in properties)
         {
             if (!string.IsNullOrEmpty(this[property]))
@@ -269,6 +269,13 @@ public class EditStudentViewModel : ViewModelBase, IDataErrorInfo
         {
             return;
         }
+
+        foreach (var subjects in AssignedSubjects)
+        {
+            subjects.IsSelected = false;
+        }
+
+
         foreach (Subject subject in _student.Subjects)
         {
             if (subject is not null && AssignedSubjects is not null)

@@ -2499,11 +2499,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Views\\University.Views.csproj",
+      "projectUniqueName": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Views\\University.Views.csproj",
       "projectName": "University.Views",
-      "projectPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Views\\University.Views.csproj",
+      "projectPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Views\\University.Views.csproj",
       "packagesPath": "C:\\Users\\СТО\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Views\\obj\\",
+      "outputPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Views\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2525,8 +2525,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Controls\\University.Controls.csproj": {
-              "projectPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Controls\\University.Controls.csproj"
+            "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Controls\\University.Controls.csproj": {
+              "projectPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Controls\\University.Controls.csproj"
             }
           }
         }

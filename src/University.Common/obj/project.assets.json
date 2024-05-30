@@ -2472,11 +2472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Common\\University.Common.csproj",
+      "projectUniqueName": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Common\\University.Common.csproj",
       "projectName": "University.Common",
-      "projectPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Common\\University.Common.csproj",
+      "projectPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Common\\University.Common.csproj",
       "packagesPath": "C:\\Users\\СТО\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Common\\obj\\",
+      "outputPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

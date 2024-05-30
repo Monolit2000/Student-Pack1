@@ -2718,11 +2718,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Main\\University.Main.csproj",
+      "projectUniqueName": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Main\\University.Main.csproj",
       "projectName": "University.Main",
-      "projectPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Main\\University.Main.csproj",
+      "projectPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Main\\University.Main.csproj",
       "packagesPath": "C:\\Users\\СТО\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Main\\obj\\",
+      "outputPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Main\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2744,20 +2744,20 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Controls\\University.Controls.csproj": {
-              "projectPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Controls\\University.Controls.csproj"
+            "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Controls\\University.Controls.csproj": {
+              "projectPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Controls\\University.Controls.csproj"
             },
-            "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Data\\University.Data.csproj": {
-              "projectPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Data\\University.Data.csproj"
+            "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Data\\University.Data.csproj": {
+              "projectPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Data\\University.Data.csproj"
             },
-            "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Interfaces\\University.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Interfaces\\University.Interfaces.csproj"
+            "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Interfaces\\University.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Interfaces\\University.Interfaces.csproj"
             },
-            "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Services\\University.Services.csproj": {
-              "projectPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Services\\University.Services.csproj"
+            "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Services\\University.Services.csproj": {
+              "projectPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Services\\University.Services.csproj"
             },
-            "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Views\\University.Views.csproj": {
-              "projectPath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Views\\University.Views.csproj"
+            "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Views\\University.Views.csproj": {
+              "projectPath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Views\\University.Views.csproj"
             }
           }
         }

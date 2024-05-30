@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\СТО\Desktop\Student-Pack1\AdvancedProgramming_Student\src\University.Views\obj\Debug\net8.0-windows\
+C:\Users\СТО\Desktop\StudentGIT_Pack1\Student-Pack1\src\University.Views\obj\Debug\net8.0-windows\
 University.Views
 none
 false
@@ -13,7 +13,7 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 19-1203684716
 
 17404530729
-245156441878
+2452083382240
 AddBookView.xaml;AddLibraryView.xaml;AddResearchProjectView.xaml;AddStudentView.xaml;AddSubjectView.xaml;BookView.xaml;DataTemplates.xaml;EditAthleticsFacilityView.xaml;EditBookView.xaml;EditLibraryView.xaml;EditResearchProjectView.xaml;EditStudentView.xaml;EditSubjectView.xaml;LibraryView.xaml;ResearchProjectView.xaml;SearchView.xaml;SharedResources.xaml;StudentsView.xaml;SubjectsView.xaml;
 
 False

@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\СТО\Desktop\Student-Pack1\AdvancedProgramming_Student\src\University.Controls\obj\Debug\net8.0-windows\
+C:\Users\СТО\Desktop\StudentGIT_Pack1\Student-Pack1\src\University.Controls\obj\Debug\net8.0-windows\
 University.Controls
 none
 false
@@ -13,8 +13,8 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 6-621104851
 
 3-1525335706
-244-1829345101
+244-2055469464
 Buttons.xaml;ConfirmationDialog.xaml;ListViews.xaml;TabControls.xaml;TextBlocks.xaml;TextBoxes.xaml;
 
-False
+True
 

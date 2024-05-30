@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UbdJsJsB57ji+4tHIlWHCYKGK+RhiivjxCgI1ZBGKMLDLir7c9WSnN6JDNbzJ77scr2nHiH978FjVOHtchdzRw==",
+  "dgSpecHash": "hWfZ2uQvfSUjk0j0kCNk3U5/kcw4eZTIno2K6nAmNd7e2O84uvgj1JxW6Nr2FqO/M9QVXB3qY2hVtfoyE9OmWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\СТО\\Desktop\\Student-Pack1\\AdvancedProgramming_Student\\src\\University.Main\\University.Main.csproj",
+  "projectFilePath": "C:\\Users\\СТО\\Desktop\\StudentGIT_Pack1\\Student-Pack1\\src\\University.Main\\University.Main.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\СТО\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\СТО\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview2\\communitytoolkit.mvvm.8.2.0-preview2.nupkg.sha512",
