@@ -69,7 +69,7 @@ namespace University.Controls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/University.Controls;V1.0.0.0;component/confirmationdialog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/University.Controls;component/confirmationdialog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ConfirmationDialog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

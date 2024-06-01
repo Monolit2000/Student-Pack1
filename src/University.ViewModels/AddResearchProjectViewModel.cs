@@ -185,13 +185,6 @@ namespace University.ViewModels
         #endregion
 
 
-        #region Add Remuve
-
-
-
-
-        #endregion
-
 
         #region Basic
 
