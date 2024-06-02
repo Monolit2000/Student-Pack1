@@ -11,9 +11,6 @@
     <Compile Update="BookView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="EditAthleticsFacilityView.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Update="EditBookView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -41,9 +38,6 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="BookView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="EditAthleticsFacilityView.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="EditBookView.xaml">

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 
-19-1203684716
+18321935060
 
-19-462048083
+18-67301717
 2452083382240
-AddBookView.xaml;AddLibraryView.xaml;AddResearchProjectView.xaml;AddStudentView.xaml;AddSubjectView.xaml;BookView.xaml;DataTemplates.xaml;EditAthleticsFacilityView.xaml;EditBookView.xaml;EditLibraryView.xaml;EditResearchProjectView.xaml;EditStudentView.xaml;EditSubjectView.xaml;LibraryView.xaml;ResearchProjectView.xaml;SearchView.xaml;SharedResources.xaml;StudentsView.xaml;SubjectsView.xaml;
+AddBookView.xaml;AddLibraryView.xaml;AddResearchProjectView.xaml;AddStudentView.xaml;AddSubjectView.xaml;BookView.xaml;DataTemplates.xaml;EditBookView.xaml;EditLibraryView.xaml;EditResearchProjectView.xaml;EditStudentView.xaml;EditSubjectView.xaml;LibraryView.xaml;ResearchProjectView.xaml;SearchView.xaml;SharedResources.xaml;StudentsView.xaml;SubjectsView.xaml;
 
 True
 
